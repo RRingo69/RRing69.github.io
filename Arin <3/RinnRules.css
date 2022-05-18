@@ -1,0 +1,22 @@
+body{
+    background-color: lightpink;
+display: flex;
+justify-content:center;
+}
+
+section {
+    background-color: lavender;
+
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    border: 3px double purple;
+    margin: 26px;
+    display: inline-block;
+    vertical-align: top;
+}
+imag{
+width:65px;
+height: 65px;
+justify-content: center;
+}
